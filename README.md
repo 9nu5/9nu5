@@ -17,9 +17,9 @@
 
 ### 🛠️ tools
 * **💻 Languages & Core**
- * Python: Main language for data analysis and ETL.
- * SQL: Proficient in complex queries and database design.
- * Bash/Shell: Familiar with Linux environments.
+   * Python: Main language for data analysis and ETL.
+   * SQL: Proficient in complex queries and database design.
+   * Bash/Shell: Familiar with Linux environments.
    
 * 📊 Data Engineering & Tools
   * Apache Airflow: Building and managing data pipelines.
