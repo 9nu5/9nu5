@@ -1,23 +1,40 @@
 # Hyomin | Data Engineer
 
-### 👤 Who am I?
-* 🎓 **27卒 Aspiring Data Engineer**
-* 📍 Relocating to **Odawara, Japan** 🇯🇵 (Open to Japanese tech market)
-* 🗣️ **Trilingual:** Japanese, English, Korean
+###  Who am I?
+* 🎓 **27卒 Data Engineer { status: "Compiling" };**
+* 📍 Relocating to Odawara, Japan (Open to Japanese tech market)
+* 🗣️ Natural Languages: Japanese, English, Korean
 
 ### 🌱 What am I currently working on?
-* 🏗️ Mastering Data Engineering fundamentals (ETL pipelines & Database design).
-* ☁️ Working with Cloud (AWS/GCP)
-* 💼 Gaining practical experience through the National Work-Study Program.
-* 🇯🇵 Preparing for a career transition to Japan with a focus on local tech trends.
+*  Mastering Data Engineering fundamentals (ETL pipelines & Database design).
+*  Working with ☁️ (AWS/GCP)
+*  Gaining practical experience through the National Work-Study Program.
+*  Preparing for a career transition to Japan with a focus on local tech trends.
+  
+*  📜 Certifications & Qualifications:
+  *  **応用情報技術者試験 (AP) Equivalent (Written Passed):** Passed the written portion of the Information Technology Engineer Examination (SK). Currently preparing for the practical exam to finalize the certification.
+  *  **Natural Languages** : Actively working toward target scores/levels for TOEIC, BJT, and JLPT N1 to solidify my trilingual capabilities (KR, EN, JP).
 
-### 🛠️ What tools do I use?
-* **Languages:** Python, SQL
-* **Tools & Platforms:** Git, Docker
-* **Communication:** Professional business Japanese and English.
-
+### 🛠️ tools
+* **💻 Languages & Core**
+ * Python: Main language for data analysis and ETL.
+ * SQL: Proficient in complex queries and database design.
+ * Bash/Shell: Familiar with Linux environments.
+   
+* 📊 Data Engineering & Tools
+  * Apache Airflow: Building and managing data pipelines.
+  * MySQL: Relational database management and optimization.
+  * ETL Pipelines: Designing robust data integration workflows.
+  * Docker: Containerizing data applications for consistent environments.
+ 
+* ☁️ Cloud & Infrastructure
+  * AWS: Exploring cloud-based data solutions.
+  * Linux Enthusiast:
+    * CachyOS (Laptop): Daily driver for a high-performance development setup. (I do not use arch, btw)
+    * Nobara Linux: Fedora-based distribution optimized for gaming and performance.
+   
 ### 📩 How to reach me?
-* 📫 **Email:** hhh990679@gmail.com
+*  **Email:** hhh990679@gmail.com
 * 💬 Feel free to reach out for collaborations or job opportunities!
 
 ### ⚡ Fun fact
