@@ -8,7 +8,6 @@
 ### 🌱 What am I currently working on?
 *  Mastering Data Engineering fundamentals (ETL pipelines & Database design).
 *  Working with ☁️ (AWS/GCP)
-*  Gaining practical experience through the National Work-Study Program.
 *  Preparing for a career transition to Japan with a focus on local tech trends.
   
 ###  📜 Certifications & Qualifications:
