@@ -12,10 +12,11 @@
   
 ###  📜 Certifications & Qualifications:
   *  **応用情報技術者試験 (AP) Equivalent (Written Passed):** Passed the written portion of the Information Technology Engineer Examination (SK). Currently preparing for the practical exam to finalize the certification.
-  * 🌐 **Natural Languages**
-    * 🇺🇸 **English:** **TOEIC : 950** (Advanced)
-    * 🇯🇵 **Japanese:** JLPT N1 & BJT (In Progress)
-    * 🇰🇷 **Korean:** Native
+    
+#### 🌐 **Natural Languages**
+  * 🇺🇸 **English:** **TOEIC : 950** (Advanced)
+  * 🇯🇵 **Japanese:** JLPT N1 & BJT (In Progress)
+  * 🇰🇷 **Korean:** Native
 
 ### 🛠️ tools
 * **💻 Languages & Core**
